@@ -64,4 +64,4 @@ Create .env file:
 OPENAI_API_KEY=your_api_key
 
 Step 3: Run the app
-streamlit run app.pyShow more lines
+streamlit run app.py
